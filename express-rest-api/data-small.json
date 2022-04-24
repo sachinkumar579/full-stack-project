@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "6265102278a31bab794266a0",
+    "index": 0,
+    "guid": "0e6faacb-25b3-441b-9345-ce7306571207",
+    "isActive": false,
+    "balance": "$2,800.20",
+    "picture": "http://placehold.it/32x32",
+    "age": 35,
+    "eyeColor": "blue",
+    "name": "Mckinney Rowland",
+    "gender": "male",
+    "company": "CINESANCT",
+    "email": "mckinneyrowland@cinesanct.com",
+    "phone": "+1 (921) 408-3604",
+    "address": "922 Kane Street, Marshall, Wisconsin, 9792",
+    "about": "Do quis ex magna velit reprehenderit amet. Amet cupidatat eiusmod consequat amet commodo. Aliquip eu exercitation proident enim voluptate velit eu occaecat fugiat consectetur.\r\n",
+    "registered": "2021-05-01T10:53:10 -06:-30",
+    "latitude": -18.107215,
+    "longitude": 105.476175,
+    "tags": ["do", "eu", "anim", "ea", "elit", "adipisicing", "commodo"],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Randi Trujillo"
+      },
+      {
+        "id": 1,
+        "name": "Bradley Knapp"
+      },
+      {
+        "id": 2,
+        "name": "Britt Mcintyre"
+      }
+    ],
+    "greeting": "Hello, Mckinney Rowland! You have 9 unread messages.",
+    "favoriteFruit": "banana"
+  }
+]
